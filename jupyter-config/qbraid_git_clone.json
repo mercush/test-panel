@@ -1,0 +1,7 @@
+{
+  "NotebookApp": {
+    "nbserver_extensions": {
+      "qbraid_git_clone": true
+    }
+  }
+}
